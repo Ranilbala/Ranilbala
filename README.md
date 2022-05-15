@@ -11,7 +11,7 @@ Skills: Cpp / Java / Python / REACT / JS / HTML / CSS
 - 💬 Ask me about anything. Happy to help 
 - 📫 How to reach me: Email or LinkedIn 
 
-!                                     [Profile views](https://gpvc.arturio.dev/Ranilbala)  
+![Profile views](https://gpvc.arturio.dev/Ranilbala)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ranilbala)](https://github.com/anuraghazra/github-readme-stats)
 
