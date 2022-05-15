@@ -16,8 +16,6 @@ Skills: Cpp / Java / Python / REACT / JS / HTML / CSS
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ranilbala&show_icons=true&count_private=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Ranilbala)  
-
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Ranilbala)  
 
 ![Profile views](https://gpvc.arturio.dev/Ranilbala)  
