@@ -11,7 +11,11 @@ Skills: Cpp / Java / Python / REACT / JS / HTML / CSS
 - 💬 Ask me about anything. Happy to help 
 - 📫 How to reach me: Email or LinkedIn 
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Ranilbala)  
+!                                     [Profile views](https://gpvc.arturio.dev/Ranilbala)  
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ranilbala)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Ranilbala)  
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ranilbala&show_icons=true&count_private=true)  
-![Profile views](https://gpvc.arturio.dev/Ranilbala)  
+
