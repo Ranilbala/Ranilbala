@@ -21,7 +21,9 @@
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ranilbala)](https://github.com/anuraghazra/github-readme-stats) -->
 
-![Ranilbala's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ranilbala)
+<!-- ![Ranilbala's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ranilbala)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ranilbala&show_icons=true&count_private=true)  
-
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ranilbala&show_icons=true&count_private=true)
+ -->
+ ![](https://raw.githubusercontent.com/Ranilbala/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/Ranilbala/github-stats/master/generated/languages.svg#gh-light-mode-only)
