@@ -30,6 +30,6 @@
 <a href="https://github.com/Ranilbala/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ranilbala&repo=github-readme-stats" />
 </a>
-<a href="https://github.com/Ranilbala/convoychat">
+<a href="https://github.com/Ranilbala/meme_generator">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ranilbala&repo=convoychat" />
 </a>
