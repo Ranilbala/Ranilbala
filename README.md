@@ -2,8 +2,10 @@
 #### I am a student at National Institiute of Technology, Warangal
 ![I am a student at National Institiute of Technology, Warangal](https://github.com/Ranilbala/Ranilbala/blob/main/banner.svg)
 
-Curious to learn
-![Profile views](https://gpvc.arturio.dev/Ranilbala)  
+![Profile views](https://gpvc.arturio.dev/Ranilbala)
+
+#Curious to learn
+  
 <h3 align="left">Connect with me:</h3>
 <p align="center">
 <a href="https://twitter.com/b_ranil_bala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="b_ranil_bala" height="30" width="40" /></a>
