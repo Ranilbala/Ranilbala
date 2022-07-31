@@ -25,5 +25,4 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ranilbala&show_icons=true&count_private=true)
  -->
- ![](https://raw.githubusercontent.com/Ranilbala/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/Ranilbala/github-stats/master/generated/languages.svg#gh-light-mode-only)
+![Ranilbala's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ranilbala&show_icons=true)
