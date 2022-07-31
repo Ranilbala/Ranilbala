@@ -21,7 +21,7 @@
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ranilbala)](https://github.com/anuraghazra/github-readme-stats) -->
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Ranilbala)  
+![Ranilbala's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ranilbala)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ranilbala&show_icons=true&count_private=true)  
 
