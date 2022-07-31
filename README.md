@@ -25,5 +25,11 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ranilbala&show_icons=true&count_private=true)
  -->
-![Ranilbala's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ranilbala&show_icons=true
+![Ranilbala's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ranilbala&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ranilbala&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/Ranilbala/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ranilbala&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/Ranilbala/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ranilbala&repo=convoychat" />
+</a>
