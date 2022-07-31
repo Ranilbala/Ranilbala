@@ -1,6 +1,6 @@
 ### Hi there 👋, I am Ranilbala
 #### I am a student at National Institiute of Technology, Warangal
-![I am a student at National Institiute of Technology, Warangal](https://github.com/Ranilbala/Ranilbala/blob/main/banner.jpg)
+![I am a student at National Institiute of Technology, Warangal](https://github.com/Ranilbala/Ranilbala/blob/main/banner.svg)
 
 Curious to learn
 
