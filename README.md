@@ -20,7 +20,7 @@ Curious to learn
 - 💬 Ask me about anything. Happy to help 
 - 📫 How to reach me: Email or LinkedIn 
 
-![Profile views](https://gpvc.arturio.dev/Ranilbala)  
+</p align="center">![Profile views](https://gpvc.arturio.dev/Ranilbala)</p>  
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ranilbala)](https://github.com/anuraghazra/github-readme-stats) -->
 
