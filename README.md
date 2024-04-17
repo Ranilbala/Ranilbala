@@ -2,7 +2,8 @@
 #### I am a student at National Institiute of Technology, Warangal
 ![I am a student at National Institiute of Technology, Warangal](https://github.com/Ranilbala/Ranilbala/blob/main/banner.svg)
 
-![Profile views](https://gpvc.arturio.dev/Ranilbala)
+<!-- ![Profile views](https://gpvc.arturio.dev/Ranilbala) -->
+![Profile views](https://komarev.com/ghpvc/?username=Ranilbala&abbreviated=true)
 
 #Curious to learn
 <!-- - 👨‍💻 All of my projects are available at [https://ranilbala.netlify.app/](https://ranilbala.netlify.app/) -->
