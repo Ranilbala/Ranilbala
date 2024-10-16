@@ -1,6 +1,6 @@
 ### Hi there 👋, I am Ranilbala
-#### I am a student at National Institiute of Technology, Warangal
-![I am a student at National Institiute of Technology, Warangal](https://github.com/Ranilbala/Ranilbala/blob/main/banner.svg)
+#### I am working as a Team Leader (IT) @ Colgate Palmolive
+![I am working as a Team Leader (IT) @ Colgate Palmolive](https://github.com/Ranilbala/Ranilbala/blob/main/banner.svg)
 
 <!-- ![Profile views](https://gpvc.arturio.dev/Ranilbala) -->
 ![Profile views](https://komarev.com/ghpvc/?username=Ranilbala&abbreviated=true)
