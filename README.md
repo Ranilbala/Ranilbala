@@ -6,7 +6,7 @@
 ![Profile views](https://komarev.com/ghpvc/?username=Ranilbala&abbreviated=true)
 
 #Curious to learn
-<!-- - 👨‍💻 All of my projects are available at [https://ranilbala.netlify.app/](https://ranilbala.netlify.app/) -->
+👨‍💻 All of my projects are available at [https://ranilbala.netlify.app/](https://ranilbala.netlify.app/)
 <h3 align="left">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/b-ranilbala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ranilbala" height="30" width="40" /></a>
