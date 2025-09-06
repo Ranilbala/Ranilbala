@@ -1,6 +1,6 @@
 ### Hi there 👋, I am Ranilbala
-#### I am working as a SDE Backend Engineer @ Innovaccer
-![I am working as a SDE Backend Engineer @ Innovaccer](https://github.com/Ranilbala/Ranilbala/blob/main/banner.svg)
+#### I am working as a SDE (Backend) @ Innovaccer
+![I am working as a SDE (Backend) @ Innovaccer](https://github.com/Ranilbala/Ranilbala/blob/main/banner.svg)
 
 <!-- ![Profile views](https://gpvc.arturio.dev/Ranilbala) -->
 ![Profile views](https://komarev.com/ghpvc/?username=Ranilbala&abbreviated=true)
