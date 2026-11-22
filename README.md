@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./banner.svg" alt="Software Engineer II @ Expedia Group" width="100%"/>
+<img src="./banner.svg" alt="Software Engineer II @ Expedia Group" width="260"/>
 
 # Hi there 👋, I'm Ranilbala
 
@@ -69,7 +69,7 @@ I'm a Software Engineer passionate about building **scalable backend systems**, 
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ranilbala&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies"/>
+  <img src="https://github-trophies.vercel.app/?username=Ranilbala&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies"/>
 </div>
 
 ---
